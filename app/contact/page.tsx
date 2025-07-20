@@ -133,8 +133,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <h3 className="text-lg font-medium text-gray-900 mb-1">Email</h3>
-                    <p className="text-gray-600">contact@chocolate-drop.com</p>
-                    <p className="text-gray-600">bookings@chocolate-drop.com</p>
+                    <p className="text-gray-600">Kartcasper@gmail.com</p>
                   </div>
                 </div>
                 
@@ -145,9 +144,9 @@ export default function Contact() {
                     </svg>
                   </div>
                   <div>
-                    <h3 className="text-lg font-medium text-gray-900 mb-1">Phone</h3>
-                    <p className="text-gray-600">(555) 123-4567</p>
-                    <p className="text-gray-600 text-sm mt-1">(For booking inquiries)</p>
+                    <h3 className="text-lg font-medium text-gray-900 mb-1">Phone & WhatsApp</h3>
+                    <p className="text-gray-600">+233591049836</p>
+                    <p className="text-gray-600 text-sm mt-1">(Available on WhatsApp)</p>
                   </div>
                 </div>
                 

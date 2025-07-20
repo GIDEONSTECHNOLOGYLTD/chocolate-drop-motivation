@@ -45,7 +45,7 @@ const Hero = () => {
       {/* Social Media Links */}
       <div className="absolute bottom-10 right-10 flex space-x-4 z-10">
         <a
-          href="https://www.tiktok.com/@_chocolate_drop_/video1"
+          href="https://www.tiktok.com/@_chocolate_drop_"
           target="_blank"
           rel="noopener noreferrer"
           className="text-white hover:text-pink-400 transition duration-300"
