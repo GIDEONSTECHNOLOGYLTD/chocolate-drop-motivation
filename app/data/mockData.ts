@@ -138,7 +138,7 @@ export const socialPosts: SocialPost[] = [
     caption: "When you realize your greatest obstacles are actually your best teachers #motivation #growth #mindset",
     likes: "14.2K",
     comments: "357",
-    url: "https://www.tiktok.com/@_chocolate_drop_/video1"
+    url: "https://www.tiktok.com/@_chocolate_drop_"
   },
   {
     id: 2,
@@ -182,29 +182,38 @@ export const socialPosts: SocialPost[] = [
 export const speakingEvents: SpeakingEvent[] = [
   {
     id: 1,
+    title: "African Youth Leadership Conference",
+    date: "August 5-7, 2025",
+    location: "Kumawu, Ghana",
+    description: "Keynote in collaboration with Emmanuel Kwarteng on empowering Ghana's next generation of leaders",
+    image: "/images/event-1.jpg",
+    url: "https://africanyouthleadership.org"
+  },
+  {
+    id: 2,
     title: "Breakthrough Leadership Summit",
     date: "August 15-16, 2025",
     location: "Chicago, IL",
     description: "Keynote address on resilience and leadership in times of change",
-    image: "/images/event-1.jpg",
+    image: "/images/event-2.jpg",
     url: "https://breakthroughleadership.com"
   },
   {
-    id: 2,
+    id: 3,
     title: "Future of Work Conference",
     date: "September 8, 2025",
     location: "Virtual Event",
     description: "Panel discussion on building high-performance remote teams",
-    image: "/images/event-2.jpg",
+    image: "/images/event-3.jpg",
     url: "https://futureofworkcon.com"
   },
   {
-    id: 3,
+    id: 4,
     title: "Women in Business Forum",
     date: "October 22, 2025",
     location: "Atlanta, GA",
     description: "Workshop on overcoming imposter syndrome and building confidence",
-    image: "/images/event-3.jpg",
+    image: "/images/event-4.jpg",
     url: "https://womeninbusinessforum.com"
   }
 ];

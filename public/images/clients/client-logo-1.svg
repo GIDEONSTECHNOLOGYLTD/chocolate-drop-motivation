@@ -1,0 +1,7 @@
+<svg width="200" height="100" viewBox="0 0 200 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="100" rx="10" fill="#F3F4F6"/>
+  <path d="M50 30H150V70H50V30Z" fill="#F3F4F6"/>
+  <text x="100" y="55" font-family="Arial, sans-serif" font-weight="bold" font-size="14" text-anchor="middle" fill="#4B5563">GLOBAL INNOVATIONS</text>
+  <path d="M60 40H75V60H60V40Z" fill="#4B5563"/>
+  <path d="M80 45H140V55H80V45Z" fill="#4B5563"/>
+</svg>

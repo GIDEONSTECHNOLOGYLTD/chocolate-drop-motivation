@@ -1,0 +1,24 @@
+<svg width="300" height="80" viewBox="0 0 300 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Logo Symbol -->
+  <g transform="translate(10, 10) scale(0.75)">
+    <!-- Background Circle -->
+    <circle cx="40" cy="40" r="36" fill="url(#paint0_linear)" />
+    
+    <!-- Chocolate Drop Shape -->
+    <path d="M40 12C33.33 12 28 17.33 28 24C28 30.67 33.33 36 40 36C46.67 36 52 30.67 52 24C52 17.33 46.67 12 40 12ZM40 18C43.31 18 46 20.69 46 24C46 27.31 43.31 30 40 30C36.69 30 34 27.31 34 24C34 20.69 36.69 18 40 18Z" fill="#FFFFFF" />
+    
+    <!-- Drop Shape -->
+    <path d="M58 46C58 57.49 50.15 68 40 68C29.85 68 22 57.49 22 46C22 34.51 40 20 40 20C40 20 58 34.51 58 46Z" fill="#FFFFFF" />
+  </g>
+  
+  <!-- Text - Chocolate_drop -->
+  <text x="90" y="45" font-family="Arial, sans-serif" font-weight="bold" font-size="24" fill="#8B4513">Chocolate_drop</text>
+  
+  <!-- Linear Gradient Definition -->
+  <defs>
+    <linearGradient id="paint0_linear" x1="4" y1="4" x2="76" y2="76" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#A0522D" />
+      <stop offset="1" stop-color="#8B4513" />
+    </linearGradient>
+  </defs>
+</svg>

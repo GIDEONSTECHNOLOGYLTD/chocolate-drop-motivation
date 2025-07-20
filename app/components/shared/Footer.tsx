@@ -1,6 +1,7 @@
 'use client';
 
 import Link from 'next/link';
+import Image from 'next/image';
 import { navLinks, socialLinks } from '../../data/mockData';
 
 const Footer = () => {
@@ -11,7 +12,15 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           {/* About Section */}
           <div className="col-span-1 md:col-span-2">
-            <h3 className="text-xl font-bold mb-4">Chocolate_drop</h3>
+            <div className="mb-4">
+              <Image 
+                src="/images/logos/chocolate-drop-logo.svg" 
+                alt="Chocolate_drop" 
+                width={100}
+                height={100}
+                className="mb-2" 
+              />
+            </div>
             <p className="text-gray-300 mb-4 max-w-md">
               Inspiring audiences worldwide with powerful messages that transform lives and unlock potential. Professional keynote speaker specializing in resilience, leadership, and personal growth.
             </p>
